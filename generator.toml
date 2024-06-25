@@ -1,0 +1,4 @@
+[general]
+library_name = "liblexbor"
+output_file_path = "./api.jl"
+jll_pkg_name = "lexbor_jll"
